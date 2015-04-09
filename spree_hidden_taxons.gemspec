@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_hidden_taxons'
-  s.version     = '2.2.0'
+  s.version     = '2.3.0'
   s.summary     = 'Hide taxons in Spree Frontend'
   s.description = ''
   s.required_ruby_version = '>= 1.9.3'
